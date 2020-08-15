@@ -7,7 +7,7 @@
 * #### [blesk011](https://github.com/blesk011)      
 
 ![WordGame1](/image/WordGame1.jpg)   
-![WordGame2](/image/WordGame2.jpg)
+![WordGame2](/image/WOrdGame2.jpg)
 
  
 
